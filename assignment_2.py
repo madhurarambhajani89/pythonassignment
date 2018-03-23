@@ -11,8 +11,7 @@ current_nameplate='Mr.AlanWalkar'
 hero='JamesBond'
 end_replacement=hero[5:9]
 start_replacement=current_nameplate[0:7]
-new =start_replacement+end_replacement
-print (new)
+print(start_replacement+end_replacement)
 
 #question3
 runs = 68
